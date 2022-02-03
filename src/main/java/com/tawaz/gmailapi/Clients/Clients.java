@@ -251,7 +251,7 @@ public class Clients {
                 .setApplicationName(APPLICATION_NAME)
                 .build();
 
-        String email= "testStudent@students.nust.ac.zw";
+        String email= "user@domain.nust.ac.zw";
         String firstName="New";
         String lastName="User";
         String password="Abcd@1234";
